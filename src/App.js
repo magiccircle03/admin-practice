@@ -1,5 +1,5 @@
 import React from "react";
-import "antd/dist/antd.css";
+// import "antd/dist/antd.css";
 // import "./App.css";
 import { Layout, Menu, Icon, Button } from "antd";
 const { Header, Content, Footer, Sider } = Layout;
@@ -57,7 +57,7 @@ function App() {
           <div style={{ padding: 24, background: "#fff", textAlign: "center" }}>
             ...
             <br />
-            Really
+            <Button type="primary">wef</Button>
             <br />
             ...
             <br />
